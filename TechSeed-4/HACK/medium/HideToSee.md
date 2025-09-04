@@ -16,6 +16,7 @@ Then i use strings with atbash.jpg and got this things. there's alot more that t
 <img width="427" height="879" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413176903585632326/image.png?ex=68bafb0d&is=68b9a98d&hm=7191b0b10dc9dadb33cd222e26f6143980ba5ce2ac3e499486bc31911c045930&=&format=webp&quality=lossless&width=451&height=929"/>
 
 So as you see i could not read all of that, so i use grep to find what i want. I search for "{" like that's the start of flag. But there's nothing that's look like it's a flag that are encrypted with atbash cipher.
+
 <img width="501" height="419" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413176920933400788/image.png?ex=68bafb11&is=68b9a991&hm=b5ca1ef05fa56997a9a0a23f2b61803244f37892db071afa0070bce0290bb1c9&=&format=webp&quality=lossless&width=626&height=524"/>
 
 As i has come to the dead end, i click on the hint and got this hint "Download the image and try to extract it."
