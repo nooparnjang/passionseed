@@ -6,7 +6,7 @@ This is final project for **TechSeed camp #4**. I choose **"HideToSee""** just b
 <img width="954" height="688" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413129640486375506/image.png?ex=68bacf08&is=68b97d88&hm=bd21b556784511e88215cf01addda508ae0d2e857ca0d872c92948751cf46f3e&=&format=webp&quality=lossless&width=1193&height=860"/>
 
 So i download the file and got this "atbash.jpg". btw there's nothing to do with 'RoyalOrderoftheHolyMackerel' i've already look it out.
-<img width="750" height="75" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413129760242143242/atbash.jpg?ex=68bacf25&is=68b97da5&hm=69276bf531ebce5c0d3f218b2bd10936f5522186806d7fbcb712a5985b1cbf40&=&format=webp&width=581&height=569"/>
+<img width="750" height="750" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413129760242143242/atbash.jpg?ex=68bacf25&is=68b97da5&hm=69276bf531ebce5c0d3f218b2bd10936f5522186806d7fbcb712a5985b1cbf40&=&format=webp&width=581&height=569"/>
 
 It's says atbash cipher that's mean it's a kind of cipher that encodes a message with the reverse of the alphabet, so east but where do i find the encode message.
 So i use wget to download file in webshell 'cause i'm thinking of "strings".
