@@ -8,7 +8,7 @@ This is final project for **TechSeed camp #4**. I choose **"HideToSee""** just b
 So i download the file and got this "atbash.jpg". btw there's nothing to do with 'RoyalOrderoftheHolyMackerel' i've already look it out.
 <img width="750" height="750" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413129760242143242/atbash.jpg?ex=68bacf25&is=68b97da5&hm=69276bf531ebce5c0d3f218b2bd10936f5522186806d7fbcb712a5985b1cbf40&=&format=webp&width=581&height=569"/>
 
-It's says atbash cipher that's mean it's a kind of cipher that encodes a message with the reverse of the alphabet, so east but where do i find the encode message.
+It's says atbash cipher that's mean it's a kind of cipher that encodes a message with the reverse of the alphabet, so easy but where do i find the encode message.
 So i use wget to download file in webshell 'cause i'm thinking of "strings".
 <img width="1871" height="221" alt="image" src="https://media.discordapp.net/attachments/1413129581472518295/1413176889526194279/image.png?ex=68bafb0a&is=68b9a98a&hm=913b48818995ed42cf4165a57b48c8d647ce4664071e5f7a837ed8890c3fc5c0&=&format=webp&quality=lossless&width=1860&height=220"/>
 
